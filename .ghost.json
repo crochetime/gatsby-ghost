@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "https://finanza-personale.herokuapp.com",
     "contentApiKey": "bf0c44e3e4b14b224a2c09e061"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "https://finanza-personale.herokuapp.com",
     "contentApiKey": "bf0c44e3e4b14b224a2c09e061"
   }
 }
